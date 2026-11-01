@@ -2,7 +2,7 @@
 
 A searchable, single-page view of Form C-1 (Statement of Financial Interests) filings by Nebraska candidates, elected officials, appointees and state employees. Prototype built for the Flatwater Free Press.
 
-**Live page:** https://mattwaite.github.io/nebraska-financial-interests/
+**Live page:** https://www.mattwaite.com/nebraska-financial-interests/
 
 ## What it does
 - One search box: type a person's name to open their filings and itemized sources, or a county or city to list everyone tied to it.
